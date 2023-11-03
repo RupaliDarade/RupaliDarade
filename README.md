@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupali Raosaheb Darade</h1>
-<h3 align="center">A Senior Test Manager at IBM Denmark, Lean Testing, Lean Mindset, Test Management, Project Management, Industry 5.0 ambassador for Denmark, Sustainability, Green Initiatives, Waste Prevention Legislation</h3>
+<h3 align="center">A Senior Test Manager at IBM Denmark, Lean Testing, Lean Mindset, Test Management, Project Management, Sustainability </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupalidarade&label=Profile%20views&color=0e75b6&style=flat" alt="rupalidarade" /> </p>
 
